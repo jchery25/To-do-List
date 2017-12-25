@@ -9,7 +9,8 @@ Time spent: 1 hours
 
 The following functionality is complete:
 
-* Users add/remove items on the list
+* Users are able to add/remove items on the list
+* Users are able to cross items on the list
 
 ## Tech(s) Used
 
